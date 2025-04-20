@@ -6,7 +6,7 @@ A stunning clone of the iOS Calculator app, built purely using **HTML**, **CSS**
 
 ## 📸 Screenshot
 
-![iOS Calculator Clone](screenshot.png)  
+![iOS Calculator Clone]  
 *(You can take a screenshot of your project and add it to your folder with this name.)*
 
 ---
@@ -27,6 +27,15 @@ A stunning clone of the iOS Calculator app, built purely using **HTML**, **CSS**
 - Responsive design — works great on desktop and mobile
 - Button press animations and smooth transitions
 
+---
+
+### 📁 Files
+
+```bash
+📦 ios_calculator_clone
+├── index.html
+├── style.css
+└── script.js
 ---
 
 ## 🤓 How to Use
